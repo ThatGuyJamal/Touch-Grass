@@ -59,7 +59,35 @@
         speed: 10.0,
         invert_dragging: false,
         drag_speed: 0.01,
-        camera_settings: {},
+        camera_settings: {
+            ".\\data\\test.rgs": (
+                position: [
+                    -0.27626774,
+                    1.1967342,
+                    -1.8459771,
+                ],
+                yaw: 0.06000039,
+                pitch: 0.5299999,
+            ),
+            "data/scene.rgs": (
+                position: [
+                    -0.0015573874,
+                    0.5583447,
+                    -1.1913052,
+                ],
+                yaw: 6.2800045,
+                pitch: 0.4000005,
+            ),
+            ".\\data\\scene.rgs": (
+                position: [
+                    0.0,
+                    1.0,
+                    -3.0,
+                ],
+                yaw: 0.0,
+                pitch: 0.0,
+            ),
+        },
     ),
     navmesh: (
         draw_all: true,
@@ -213,6 +241,9 @@
     recent: (
         scenes: [
             "data/scene.rgs",
+            "C:\\Users\\heroh\\code\\projects\\games\\TouchGrass\\resources\\scenes\\test.rgs",
+            ".\\data\\scene.rgs",
+            ".\\data\\test.rgs",
         ],
     ),
 )
