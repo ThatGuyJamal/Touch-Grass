@@ -4,7 +4,7 @@ Touching Grass made easy.
 
 ## What is this?
 
-This is a game made with [Bevy](https://bevyengine.org/) that helps gamers conquer their fear of touching grass.
+This is a game made with the [Fyrox Engine](https://fyrox.rs/) that helps gamers conquer their fear of touching grass.
 
 ## How do I play?
 
