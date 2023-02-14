@@ -17,4 +17,4 @@ TBA
 ## Contributing
 
 To contribute, please read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file and take a look at the 
-[DEPS.md](meta/deps.md) file.
+[DEPS.md](resources/modules.md) file.

@@ -1,6 +1,6 @@
-## Deps 
+## Module Deps 
 
-A file to track the needed dep information for the game.
+This file is used to track the things used to help me learn and develop this game.
 
 - [Rust](https://www.rust-lang.org/) - The programming language used to build the game.
 - [Cross](https://github.com/cross-rs/cross) - A tool to build Rust executables for multiple platforms.
